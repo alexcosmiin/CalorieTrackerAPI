@@ -1,0 +1,21 @@
+Nume: Stan Alexandru Grupa: 8
+
+Titlu Proiect: Calorie Tracker API
+
+Descriere: In acest proiect o sa fac o aplicatie web (REST API) folosind Java si Spring Boot. Scopul aplicatiei este sa tina evidenta caloriilor consumate intr-o zi, asemanator cu aplicatia MyFitnessPal.
+
+Tehnologii:
+
+Java & Spring Boot
+
+Baza de date (SQL)
+
+Functionalitati (CRUD): Proiectul respecta cerintele de gestionare a datelor astfel:
+
+Add: Adaugare produs consumat (nume mancare, numar calorii).
+
+View: Vizualizare lista cu ce am mancat azi.
+
+Edit: Modificare numar calorii pentru un produs deja adaugat.
+
+Remove: Stergere produs din lista.
